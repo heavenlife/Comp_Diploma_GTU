@@ -1,0 +1,39 @@
+{
+  "Semester": "1",
+  "Subject_name": "English",
+  "Subject_code": "ENG101",
+  "Material": [
+    {
+      "Books": {
+        "image": "english_book_image.jpg",
+        "pdf": "english_book.pdf",
+        "extra1": "extra_info_1",
+        "extra2": "extra_info_2"
+      },
+      "ImpQuestions": {
+        "image": "english_imp_questions_image.jpg",
+        "pdf": "english_imp_questions.pdf",
+        "extra1": "extra_info_1",
+        "extra2": "extra_info_2"
+      },
+      "Assignments": {
+        "image": "english_assignment_image.jpg",
+        "pdf": "english_assignment.pdf",
+        "extra1": "extra_info_1",
+        "extra2": "extra_info_2"
+      },
+      "Papers": {
+        "image": "english_papers_image.jpg",
+        "pdf": "english_papers.pdf",
+        "extra1": "extra_info_1",
+        "extra2": "extra_info_2"
+      },
+      "PaperSolutions": {
+        "image": "english_paper_solutions_image.jpg",
+        "pdf": "english_paper_solutions.pdf",
+        "extra1": "extra_info_1",
+        "extra2": "extra_info_2"
+      }
+    }
+  ]
+}
