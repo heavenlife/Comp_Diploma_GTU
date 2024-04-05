@@ -5,32 +5,32 @@
   "Material": [
     {
       "Books": {
-        "image": "english_book_image.jpg",
-        "pdf": "english_book.pdf",
+        "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+        "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy.pdf",
         "extra1": "extra_info_1",
         "extra2": "extra_info_2"
       },
       "ImpQuestions": {
-        "image": "english_imp_questions_image.jpg",
-        "pdf": "english_imp_questions.pdf",
+        "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+        "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy.pdf",
         "extra1": "extra_info_1",
         "extra2": "extra_info_2"
       },
       "Assignments": {
-        "image": "english_assignment_image.jpg",
-        "pdf": "english_assignment.pdf",
+        "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+        "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy.pdf",
         "extra1": "extra_info_1",
         "extra2": "extra_info_2"
       },
       "Papers": {
-        "image": "english_papers_image.jpg",
-        "pdf": "english_papers.pdf",
+        "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+        "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy.pdf",
         "extra1": "extra_info_1",
         "extra2": "extra_info_2"
       },
       "PaperSolutions": {
-        "image": "english_paper_solutions_image.jpg",
-        "pdf": "english_paper_solutions.pdf",
+        "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+        "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy.pdf",
         "extra1": "extra_info_1",
         "extra2": "extra_info_2"
       }
