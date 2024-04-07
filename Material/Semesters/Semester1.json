@@ -2,20 +2,44 @@
   "Semester": "1",
   "Subjects": [
     {
-      "subject_code": "ENG101",
-      "subject_name": "English",
-      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
-      "extra1": "extra_info_1"
-    },
-    {
-      "subject_code": "MATH101",
+      "subject_code": "C4300001",
       "subject_name": "Mathematics",
       "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
       "extra1": "extra_info_1"
     },
     {
-      "subject_code": "SCI101",
-      "subject_name": "Science",
+      "subject_code": "C4300002",
+      "subject_name": "Communication Skills in English",
+      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "C4300003",
+      "subject_name": "Environment and Sustainability",
+      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "C4300015",
+      "subject_name": "Sports and Yoga",
+      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "C4300018",
+      "subject_name": "Fundamentals of Electrical and Electronics",
+      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "C4310701",
+      "subject_name": "Fundamentals of Computer",
+      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "C4310702",
+      "subject_name": "Basic Computer Programming",
       "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
       "extra1": "extra_info_1"
     }
