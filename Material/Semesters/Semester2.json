@@ -1,0 +1,47 @@
+{
+  "Semester": "2",
+  "Subjects": [
+    {
+      "subject_code": "C4300005",
+      "subject_name": "Physics",
+      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "C4300016",
+      "subject_name": "Indian Constitution",
+      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "C4311603",
+      "subject_name": "Static Webpage Design",
+      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "C4320002",
+      "subject_name": "Engineering Mathematics",
+      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "C4320701",
+      "subject_name": "Electronics and Computer Workshop Practice",
+      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "C4320702",
+      "subject_name": "Basic Object Oriented Programming",
+      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "C4320703",
+      "subject_name": "Basics of Digital Electronics",
+      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+      "extra1": "extra_info_1"
+    }
+  ]
+}
