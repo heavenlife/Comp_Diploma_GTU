@@ -1,0 +1,41 @@
+{
+  "Semester": "3",
+  "Subjects": [
+    {
+      "subject_code": "4330001",
+      "subject_name": "Summer Internship-I",
+      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "4330701",
+      "subject_name": "Scripting Language -Python",
+      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "4330702",
+      "subject_name": "Relational Database Management System",
+      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "4330703",
+      "subject_name": "Basics of Operating System",
+      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "4330704",
+      "subject_name": "Data Structure and Algorithm",
+      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "4330705",
+      "subject_name": "Responsive Web Page Design",
+      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+      "extra1": "extra_info_1"
+    }
+  ]
+}
