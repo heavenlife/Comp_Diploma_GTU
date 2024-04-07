@@ -1,0 +1,44 @@
+{
+  "contributors": [
+    {
+      "name": "Neha",
+      "jobTitle": "Diploma Semester 2",
+      "instaLink": "https://www.instagram.com/android_alians/",
+      "facebookLink": "https://www.facebook.com/namrata.mori.5/",
+      "linkedInLink": "https://www.linkedin.com/in/neha/",
+      "profileImage": "assets/images/onboard_1.png"
+    },
+    {
+      "name": "Ravi",
+      "jobTitle": "Diploma Semester 5",
+      "instaLink": "https://www.instagram.com/ravi123/",
+      "facebookLink": "https://www.facebook.com/ravi123/",
+      "linkedInLink": "https://www.linkedin.com/in/ravi/",
+      "profileImage": "assets/images/onboard_2.png"
+    },
+    {
+      "name": "Moni",
+      "jobTitle": "Diploma Semester 3",
+      "instaLink": "https://www.instagram.com/moni456/",
+      "facebookLink": "https://www.facebook.com/moni456/",
+      "linkedInLink": "https://www.linkedin.com/in/moni/",
+      "profileImage": "assets/images/onboard_3.png"
+    },
+    {
+      "name": "Heli",
+      "jobTitle": "Diploma Semester 1",
+      "instaLink": "https://www.instagram.com/heli789/",
+      "facebookLink": "https://www.facebook.com/heli789/",
+      "linkedInLink": "https://www.linkedin.com/in/heli/",
+      "profileImage": "assets/images/onboard_2.png"
+    },
+    {
+      "name": "Abc",
+      "jobTitle": "Diploma Semester 6",
+      "instaLink": "https://www.instagram.com/abc456/",
+      "facebookLink": "https://www.facebook.com/abc456/",
+      "linkedInLink": "https://www.linkedin.com/in/abc/",
+      "profileImage": "assets/images/onboard_1.png"
+    }
+  ]
+}
