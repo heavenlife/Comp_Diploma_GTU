@@ -1,0 +1,39 @@
+{
+  "Semester": "1",
+  "Subject_name": "Mathematics",
+  "Subject_code": "C4300001",
+  "Material": [
+    {
+      "Books": {
+        "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+        "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy.pdf",
+        "extra1": "extra_info_1",
+        "extra2": "extra_info_2"
+      },
+      "ImpQuestions": {
+        "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+        "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy.pdf",
+        "extra1": "extra_info_1",
+        "extra2": "extra_info_2"
+      },
+      "Assignments": {
+        "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+        "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy.pdf",
+        "extra1": "extra_info_1",
+        "extra2": "extra_info_2"
+      },
+      "Papers": {
+        "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+        "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy.pdf",
+        "extra1": "extra_info_1",
+        "extra2": "extra_info_2"
+      },
+      "PaperSolutions": {
+        "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+        "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy.pdf",
+        "extra1": "extra_info_1",
+        "extra2": "extra_info_2"
+      }
+    }
+  ]
+}
