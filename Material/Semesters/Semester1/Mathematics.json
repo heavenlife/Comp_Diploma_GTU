@@ -22,7 +22,7 @@
           "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy.pdf",
           "extra1": "extra_info_book1_1",
           "extra2": "extra_info_book1_2"
-        },
+        }
       ]
      "ImpQuestions": [
        {
@@ -42,7 +42,7 @@
           "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy.pdf",
           "extra1": "extra_info_book1_1",
           "extra2": "extra_info_book1_2"
-        },
+        }
       ]
       "Assignments": [
       {
@@ -62,7 +62,7 @@
           "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy.pdf",
           "extra1": "extra_info_book1_1",
           "extra2": "extra_info_book1_2"
-        },
+        }
       ]
       "Papers": [
       {
@@ -82,7 +82,7 @@
           "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy.pdf",
           "extra1": "extra_info_book1_1",
           "extra2": "extra_info_book1_2"
-        },
+        }
       ]
       "PaperSolutions": [
        {
@@ -102,7 +102,7 @@
           "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy.pdf",
           "extra1": "extra_info_book1_1",
           "extra2": "extra_info_book1_2"
-        },
+        }
       ]
     }
   ]
