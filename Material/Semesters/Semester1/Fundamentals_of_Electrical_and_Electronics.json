@@ -1,0 +1,109 @@
+{
+  "Semester": "1",
+  "Subject_name": "Fundamentals of Electrical and Electronics",
+  "Subject_code": "C4300018",
+  "Material": [
+    {
+      "Books": [
+        {
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy.pdf",
+          "extra1": "extra_info_book1_1",
+          "extra2": "extra_info_book1_2"
+        },
+        {
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book_2.png",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy-pdf_2.pdf",
+          "extra1": "extra_info_book2_1",
+          "extra2": "extra_info_book2_2"
+        },
+        {
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy.pdf",
+          "extra1": "extra_info_book1_1",
+          "extra2": "extra_info_book1_2"
+        }
+      ],
+     "ImpQuestions": [
+       {
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy.pdf",
+          "extra1": "extra_info_book1_1",
+          "extra2": "extra_info_book1_2"
+        },
+        {
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book_2.png",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy-pdf_2.pdf",
+          "extra1": "extra_info_book2_1",
+          "extra2": "extra_info_book2_2"
+        },
+        {
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy.pdf",
+          "extra1": "extra_info_book1_1",
+          "extra2": "extra_info_book1_2"
+        }
+      ],
+      "Assignments": [
+      {
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy.pdf",
+          "extra1": "extra_info_book1_1",
+          "extra2": "extra_info_book1_2"
+        },
+        {
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book_2.png",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy-pdf_2.pdf",
+          "extra1": "extra_info_book2_1",
+          "extra2": "extra_info_book2_2"
+        },
+        {
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy.pdf",
+          "extra1": "extra_info_book1_1",
+          "extra2": "extra_info_book1_2"
+        }
+      ],
+      "Papers": [
+      {
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy.pdf",
+          "extra1": "extra_info_book1_1",
+          "extra2": "extra_info_book1_2"
+        },
+        {
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book_2.png",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy-pdf_2.pdf",
+          "extra1": "extra_info_book2_1",
+          "extra2": "extra_info_book2_2"
+        },
+        {
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy.pdf",
+          "extra1": "extra_info_book1_1",
+          "extra2": "extra_info_book1_2"
+        }
+      ],
+      "PaperSolutions": [
+       {
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy.pdf",
+          "extra1": "extra_info_book1_1",
+          "extra2": "extra_info_book1_2"
+        },
+        {
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book_2.png",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy-pdf_2.pdf",
+          "extra1": "extra_info_book2_1",
+          "extra2": "extra_info_book2_2"
+        },
+        {
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy.pdf",
+          "extra1": "extra_info_book1_1",
+          "extra2": "extra_info_book1_2"
+        }
+      ]
+    }
+  ]
+}
