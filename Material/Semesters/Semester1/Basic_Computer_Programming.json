@@ -6,20 +6,98 @@
     {
       "Books": [
         {
-          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
-          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy.pdf",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_book_cover.png",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_CH1.pdf",
           "extra1": "extra_info_book1_1",
           "extra2": "extra_info_book1_2"
         },
         {
-          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book_2.png",
-          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy-pdf_2.pdf",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_book_cover.png",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_CH2-1.pdf",
           "extra1": "extra_info_book2_1",
           "extra2": "extra_info_book2_2"
         },
         {
-          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
-          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy.pdf",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_book_cover.png",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_CH2-2.pdf",
+          "extra1": "extra_info_book1_1",
+          "extra2": "extra_info_book1_2"
+        },
+        {
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_book_cover.png",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_CH3-1.pdf",
+          "extra1": "extra_info_book2_1",
+          "extra2": "extra_info_book2_2"
+        },
+        {
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_book_cover.png",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_CH3-2.pdf",
+          "extra1": "extra_info_book1_1",
+          "extra2": "extra_info_book1_2"
+        },
+        {
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_book_cover.png",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_CH3-3.pdf",
+          "extra1": "extra_info_book2_1",
+          "extra2": "extra_info_book2_2"
+        },
+        {
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_book_cover.png",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_CH4-1.pdf",
+          "extra1": "extra_info_book1_1",
+          "extra2": "extra_info_book1_2"
+        },
+        {
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_book_cover.png",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_CH4-2.pdf",
+          "extra1": "extra_info_book1_1",
+          "extra2": "extra_info_book1_2"
+        },
+        {
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_book_cover.png",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_CH4-3.pdf",
+          "extra1": "extra_info_book2_1",
+          "extra2": "extra_info_book2_2"
+        },
+        {
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_book_cover.png",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_CH5-1.pdf",
+          "extra1": "extra_info_book1_1",
+          "extra2": "extra_info_book1_2"
+        },
+         {
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_book_cover.png",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_CH5-2.pdf",
+          "extra1": "extra_info_book2_1",
+          "extra2": "extra_info_book2_2"
+        },
+        {
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_book_cover.png",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_CH5-3.pdf",
+          "extra1": "extra_info_book1_1",
+          "extra2": "extra_info_book1_2"
+        },
+        {
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_book_cover.png",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_CH6-1.pdf",
+          "extra1": "extra_info_book1_1",
+          "extra2": "extra_info_book1_2"
+        },
+         {
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_book_cover.png",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_CH6-2.pdf",
+          "extra1": "extra_info_book2_1",
+          "extra2": "extra_info_book2_2"
+        },
+        {
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_book_cover.png",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_CH6-3.pdf",
+          "extra1": "extra_info_book1_1",
+          "extra2": "extra_info_book1_2"
+        },
+          {
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_book_cover.png",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_CH6-4.pdf",
           "extra1": "extra_info_book1_1",
           "extra2": "extra_info_book1_2"
         }
@@ -66,42 +144,30 @@
       ],
       "Papers": [
       {
-          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
-          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy.pdf",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_book_cover.png",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_PAPER_2021.pdf",
           "extra1": "extra_info_book1_1",
           "extra2": "extra_info_book1_2"
         },
         {
-          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book_2.png",
-          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy-pdf_2.pdf",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_book_cover.png",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_PAPER_2022.pdf",
           "extra1": "extra_info_book2_1",
           "extra2": "extra_info_book2_2"
-        },
-        {
-          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
-          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy.pdf",
-          "extra1": "extra_info_book1_1",
-          "extra2": "extra_info_book1_2"
         }
       ],
       "PaperSolutions": [
        {
-          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
-          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy.pdf",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_book_cover.png",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_PAPER_2021.pdf",
           "extra1": "extra_info_book1_1",
           "extra2": "extra_info_book1_2"
         },
         {
-          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book_2.png",
-          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy-pdf_2.pdf",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_book_cover.png",
+          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_PAPER_2022.pdf",
           "extra1": "extra_info_book2_1",
           "extra2": "extra_info_book2_2"
-        },
-        {
-          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
-          "pdf": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy.pdf",
-          "extra1": "extra_info_book1_1",
-          "extra2": "extra_info_book1_2"
         }
       ]
     }
